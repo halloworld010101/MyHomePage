@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/halloworld010101)
+[![Charles Do](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/halloworld010101)
 
 I'm currently pursuing a Master's degree in shanghai at the Department of Computer Science, Shanghai JiaoTong University, China.
 
