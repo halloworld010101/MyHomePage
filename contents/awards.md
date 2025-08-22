@@ -1,0 +1,6 @@
+- Class Academic Scholarship for Postgraduates of Shanghai JiaoTong university
+- Shaoqiu Scholarship of Shanghai JiaoTong university
+- Third Prize of National College Student Mathematics Competition
+- Outstanding Student of Sichuan University
+- Merit Student of Sichuan University
+- Outstanding Student Leader of Sichuan University
